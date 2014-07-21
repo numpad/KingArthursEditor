@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="res/|res/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry exported="true" kind="lib" path="lib/jbox2d.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jinput.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lwjgl_util.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Frapp/lib/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="lib/slick.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib"/>
+	<classpathentry kind="lib" path="lib/KAGFrapp.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
