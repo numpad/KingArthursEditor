@@ -13,21 +13,6 @@ How?
 If you want to build the editor, you need to download `src`, `res` and `lib`.
 Import these three folders in your Java-Project and use `KAGFrapp.jar` as import path.
 
-The filetree should look like this:
-src
-  +-com.numpad.kageditor
-    +-Editor.java
-    +-EditorState.java
-    +-...
-res
-  +-data
-    +-img
-    +-music
-    +-scr
-    +-scripts
-lib
-  +-KAGFrapp.jar
-
 You probably won't need jbox2d.jar and the other libraries, but KAGFrapp <u>may</u> not compile without them.
 
 How can I help?
