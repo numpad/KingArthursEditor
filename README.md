@@ -5,8 +5,7 @@ A Map Editor for King Arthur's Gold
 
 Where?
 ------
-Download the compiled .jar from <a href="https://forum.kag2d.com/resources/map-editor.173/">the KAG Forums.</a>
-or build the editor from source!
+Download the compiled .jar from <a href="https://forum.kag2d.com/resources/map-editor.173/">the KAG Forums</a> or build the editor from source!
 
 How?
 ----
